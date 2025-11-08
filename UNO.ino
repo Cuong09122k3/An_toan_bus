@@ -6,7 +6,7 @@ int dem = 0, pre_dem = 0;
 bool isButtonPressed1 = false, button2State = false;
 bool called = false;
 int buttonState1, buttonState2, lastButtonState1, lastButtonState2;
-String phone_no = "+84123456789";
+String phone_no = "";
 
 void setup() {
   pinMode(button1, INPUT);
