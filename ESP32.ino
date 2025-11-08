@@ -8,7 +8,7 @@
 #define WIFI_SSID "YourSSID"
 #define WIFI_PASSWORD "YourPassword"
 #define API_KEY "YourFirebaseAPIKey"
-#define DATABASE_URL "https://yourdatabase.firebaseio.com"
+#define DATABASE_URL ""
 #define RXp2 16
 #define TXp2 17
 
